@@ -1,16 +1,4 @@
-# explicit_animation
+# Flutter Explicit_animation
 
-A new Flutter project.
+In this Project you will see the container with color Blue, if we press the floating action button so then container will Changed their properties like size, color and border radius and if we again press the button the shape of the container's position will stopped and then if we again press the button, the container will again run from that point where i stopped the container
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
